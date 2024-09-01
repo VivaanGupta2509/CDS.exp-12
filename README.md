@@ -251,3 +251,29 @@ int main() {
 
 ### A - 
 
+<img width="689" alt="Screenshot 2024-09-01 at 4 24 00 PM" src="https://github.com/user-attachments/assets/2c132748-3d02-49a0-adfa-440fdd6c47a5">
+
+### B -
+
+<img width="700" alt="Screenshot 2024-09-01 at 4 30 39 PM" src="https://github.com/user-attachments/assets/658cfad7-6730-4103-a677-8db3a3d46e3c">
+
+### C -
+
+<img width="465" alt="Screenshot 2024-09-01 at 4 31 32 PM" src="https://github.com/user-attachments/assets/c58f9e5e-a922-4c24-8743-75b883e17771">
+
+### D -
+
+<img width="386" alt="Screenshot 2024-09-01 at 4 31 53 PM" src="https://github.com/user-attachments/assets/c2069a42-9973-400e-b0c6-fe3dbd715468">
+
+### E - 
+
+<img width="440" alt="Screenshot 2024-09-01 at 4 32 07 PM" src="https://github.com/user-attachments/assets/c5bc707e-d03d-4a97-911c-2b2bd5c7a4e5">
+
+### F -
+
+<img width="411" alt="Screenshot 2024-09-01 at 4 32 23 PM" src="https://github.com/user-attachments/assets/971d27e5-93ff-4707-9f85-20dcab8a75fc">
+
+## Conclusion - 
+-  We learnt about constructors and deconstructors in C++. <br>
+-  We learnt the use case of each of them in C++.  <br>
+
